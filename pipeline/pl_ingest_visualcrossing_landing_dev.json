@@ -9,7 +9,7 @@
 					{
 						"activity": "web_get_apikey",
 						"dependencyConditions": [
-							"Skipped"
+							"Succeeded"
 						]
 					}
 				],
